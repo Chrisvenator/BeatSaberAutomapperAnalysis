@@ -1,0 +1,14 @@
+1: Parity - Getting rid of triangles and DDs will go a long way. Ease up on the random difficulty spikes where certain sections are over-mapped compared to other sections of the map. Flow - A lot of times the setup for the pattern isn't quite there, and calls for unnatural arm/wrist movements to be able to hit the next block comfortably. Patterns - Bad cutty patterns. There were a good number of challenge patterns in the pool like loloppes, hidden notes as well as a lot of unnecessary clutter, flicky and uncomfortable hits would help.
+2: I cant answer this question due to lack of knowledge of how auto-mappers work. I can tell what is wrong and probably why, but not how to improve. From what I saw in the editor it seems like the bot is trying to get the info from the spectrogram so high noise maps will confuse it and put it off time. As for obvious errors, just put it through an error checker. :)
+3: autofinding the right bpm or letting the user add them in before putting in the song file and adding a way to produce the silence at the start/end as to prevent them having hot starts and cold ends
+4: Keep their database (?) up to date because mapping standards change. I felt like some of the maps were from 4-5 years ago which would be normal at that time but today maps look different
+5: make a catalogue of commonly used patterns and have the ai place those instead of singular notes with no correlation to each other
+6: its very hard to answer this question because in a song, different people will interpret and map the same sounds differently.
+7: It's very hard to make AI generated maps feel nice. I guess the best thing they could map is acc.
+8: remove resets in parts where fast reseting (muscle memory hit in) can injure or cause pain
+9: consistency, patterns that make sense (Beat Kenja is close)
+10: go through and highly edit them for proper emphasis.
+11: interesting patterns, good flow, matches with music
+12: learn parity and better song representation
+13: Make the notes fit with the beat
+14: take info from real maps
