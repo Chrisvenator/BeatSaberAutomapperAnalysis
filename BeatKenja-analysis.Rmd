@@ -2,7 +2,10 @@
 title: "BeatKenja-analysis"
 author: "Christopher Scherling"
 date: "`r Sys.Date()`"
-output: pdf_document
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
 ---
 
 ```{r setup, include=FALSE}
@@ -569,7 +572,7 @@ The previous models showed weak correlations (low R², high p-values), suggestin
 
 Beginners might rate higher on average because they are less critical or have lower expectations. Intermediate players show a balanced trend, suggesting that experience leads to a more neutral or measured evaluation approach. Meanwhile, advanced players may have more refined preferences, leading to more extreme ratings (both higher and lower).
 
-## Sill vs Rating per map
+## Skill vs Rating per map
 
 This analysis investigates how players of different skill levels (Beginner, Intermediate, Advanced) rate individual maps. The violin plots in the following Figure visualize the distribution of ratings across different skill groups for each map.
 
